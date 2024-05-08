@@ -1,23 +1,11 @@
 Hi there! 👋, I'm Samarth intrested in linux, devlopment tool-chain,go, and cloud  
 
-Programming Languages and Technologies:
+Programming Languages:- `C ,C++, Go, lua, python, HTML/CSS, JavaScript, TypeScript, TailWind, Bash (Shell scripting)`
 
-    C
-    C++
-    Go
-    lua
-    python
-    HTML/CSS
-    JavaScript 
-    TypeScript
-    TailWind
-    Bash (Shell scripting)
-
-Data Structures and Algorithms :
-
-    perfomance optimization
-    Competitive Programming
-    Algorithm Desiging
+Data Structures and Algorithms
+* perfomance optimization
+* Competitive Programming
+* Algorithm Desiging
 Operating Systems:
 
     linux:
