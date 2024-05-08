@@ -6,15 +6,13 @@ Data Structures and Algorithms
 * perfomance optimization
 * Competitive Programming
 * Algorithm Desiging
-Operating Systems:
 
-    linux:
-        ubuntu (DEB based)
-        fedora (RPM based)
-    macOS (macOS-specific development or usage)
-    Windows
-    
-📫  reach me samarth07nagar@gmail.com
+linux:
 
-
-
+        1) ubuntu (DEB based)
+        2) fedora (RPM based)
+        3) bash scripting 
+        4) automation 
+        5) administration
+  
+📫  reach me `samarth07nagar@gmail.com`
