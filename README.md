@@ -8,5 +8,6 @@ linux:\
         `3) bash scripting `\
         `4) automation `\
         `5) administration`
+
   
 📫  reach me `samarth07nagar@gmail.com`
