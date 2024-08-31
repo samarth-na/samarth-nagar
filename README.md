@@ -9,7 +9,7 @@ other :\
         `4) automation `\
         `5) administration`\
         `6) cryptography`\
-        `7) nteworking `\
+        `7) nteworking `
 
   
 📫  reach me `samarth07nagar@gmail.com`
